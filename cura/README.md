@@ -1,3 +1,0 @@
-# Cura
-
-Cura profiles
